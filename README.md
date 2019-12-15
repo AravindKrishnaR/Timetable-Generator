@@ -1,5 +1,5 @@
 # Timetable-Generator
-A timetable generator Webapp developed as part of the Software Engineering project.
+A timetable generator Web-app developed as part of the Software Engineering project.
 
 1. You'll need a localhost to run the website, we used xampp for this purpose.
 
